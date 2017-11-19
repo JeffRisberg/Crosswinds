@@ -1,0 +1,56 @@
+/* this file contains overrides for the Blue appearance.
+
+  The major color is #8080FF.
+  The accent color is #D78F1D.
+*/
+
+#header { 	
+	background-image: url(images/headerBlue.jpg);
+}
+
+#footer {
+	background-color: #8080FF;
+	background-image: url(images/gradientBlue.gif);
+}
+
+#footerAccent {
+	background: #D78F1D;
+}
+
+#navbar li {
+	background: #D78F1D;
+}
+
+.post>h2 {
+	border-bottom: 1px solid #8080FF;
+}
+
+.post>h2 a {
+	background-color: #8080FF;
+	background-image: url(images/gradientBlue.gif);
+}
+
+.post>h3 {
+	border-top: 1px solid #8080FF;
+}
+
+.postfooter {
+	background-image: url(images/postfooterBlue.gif);
+}
+
+.pagetitle {
+	border-bottom: 1px solid #8080FF;
+}
+
+.pagetitle h2 {
+	background-color: #8080FF;
+	background-image: url(images/gradientBlue.gif);
+}
+
+#sidebar>ul>li>h2 {
+ 	border-bottom: 1px solid #8080FF;
+}
+
+#wp-calendar caption {
+	background: #D78F1D;
+}

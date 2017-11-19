@@ -1,0 +1,56 @@
+/* this file contains overrides for the Green appearance.
+
+  The controlling color is #6CBB38.
+  The accent color is #D78F1D.
+*/
+
+#header { 	
+	background-image: url(images/headerGreen.jpg);
+}
+
+#footer {
+	background-color: #6CBB38;
+	background-image: url(images/gradientGreen.gif);
+}
+
+#footerAccent {
+	background: #D78F1D;
+}
+
+#navbar li {
+	background: #D78F1D;
+}
+
+.post>h2 {
+	border-bottom: 1px solid #6CBB38;
+}
+
+.post>h2 a {
+	background-color: #6CBB38;
+	background-image: url(images/gradientGreen.gif);
+}
+
+.post>h3 {
+	border-top: 1px solid #6CBB38;
+}
+
+.postfooter {
+	background-image: url(images/postfooterGreen.gif);
+}
+
+.pagetitle {
+	border-bottom: 1px solid #6CBB38;
+}
+
+.pagetitle h2 {
+	background-color: #6CBB38;
+	background-image: url(images/gradientGreen.gif);
+}
+
+#sidebar>ul>li>h2 {
+ 	border-bottom: 1px solid #6CBB38;
+}
+
+#wp-calendar caption {
+	background: #D78F1D;
+}

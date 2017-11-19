@@ -1,0 +1,56 @@
+/* this file contains overrides for the Orange appearance.
+
+  The controlling color is #FFA500.
+  The accent color is #6CBB38.
+*/
+
+#header { 	
+	background-image: url(images/headerOrange.jpg);
+}
+
+#footer {
+	background-color: #FFA500;
+	background-image: url(images/gradientOrange.gif);
+}
+
+#footerAccent {
+	background: #6CBB38;
+}
+
+#navbar li {
+	background: #6CBB38;
+}
+
+.post>h2 {
+	border-bottom: 1px solid #FFA500;
+}
+
+.post>h2 a {
+	background-color: #FFA500;
+	background-image: url(images/gradientOrange.gif);
+}
+
+.post>h3 {
+	border-top: 1px solid #FFA500;
+}
+
+.postfooter {
+	background-image: url(images/postfooterOrange.gif);
+}
+
+.pagetitle {
+	border-bottom: 1px solid #FFA500;
+}
+
+.pagetitle h2 {
+	background-color: #FFA500;
+	background-image: url(images/gradientOrange.gif);
+}
+
+#sidebar>ul>li>h2 {
+ 	border-bottom: 1px solid #FFA500;
+}
+
+#wp-calendar caption {
+	background: #6CBB38;
+}
